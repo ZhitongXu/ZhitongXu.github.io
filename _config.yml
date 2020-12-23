@@ -1,5 +1,5 @@
 title: Xu Zhitong
-description: Web & Security Engineer
+description: :)
 site_title: '@ZhitongXu - Xu Zhitong'
 
 # Build settings
@@ -8,7 +8,7 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: ZhitongXu
-blog_url: https://www.nagekar.com
+blog_url: https://zhitongxu.github.io
 email: ZhitongX@163.com
 
 # absolute or relative
