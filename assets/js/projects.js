@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
-            image: 'assets/images/C#.png',
+            image: 'assets/images/moocweb.png',
             link: 'https://github.com/ZhitongXu/moocweb',
             title: 'moocweb',
             demo: 'sql.ruc.edu.cn',
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/collage.jpg',
+            image: 'assets/images/db.png',
             link: 'https://github.com/ZhitongXu/spring',
             title: 'Spring',
             demo: false,
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/nyc.png',
+            image: 'assets/images/nyc taxi.png',
             link: 'https://github.com/ZhitongXu/NUS/tree/main/Summer%20Workshop%202019/NYC%20Taxi%20Trip%20Duration',
             title: 'Predict NYC taxi trip duration',
             demo: false,
