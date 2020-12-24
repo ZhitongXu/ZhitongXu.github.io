@@ -23,24 +23,16 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Trek To Bramhatal (Uttarakhand)',
+            url: 'https://mp.weixin.qq.com/s/UUqjx3GCSrDiVkZ3jUC9Jw',
+            title: 'Take part in the competition of musical instrument group',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: 'Privacy - How I Converted',
+            url: 'https://sws.comp.nus.edu.sg/2019/index.htm',
+            title: 'NUS SOC SUMMER WORKSHOP 2019',
         },
         {
-            url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Jagriti Yatra 2017',
-        },
-        {
-            url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Private Cloud Part 2 | Encrypted Storage With NextCloud',
-        },
-        {
-            url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
-            title: 'ELI5 - How HTTPS Works',
+            url: 'https://mp.weixin.qq.com/s/7jVh30ZE1vwAVnmIZ6J1iw',
+            title: 'Volunteer at DoraHacks x Binance Defi Hackathon@Beijing',
         },
     ];
 
@@ -76,11 +68,11 @@ function blog_posts() {
 
     // for the more posts link
     let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" onclick="blog_link_click('');">
 
         <div class="blog-link">
 
-            <h3><a href="https://www.nagekar.com">Visit the blog for more posts</a></h3>            
+            <h3><a href="">Visit the blog for more posts</a></h3>            
 
         </div>
 
