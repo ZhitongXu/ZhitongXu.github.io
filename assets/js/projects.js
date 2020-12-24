@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Qt', 'C++'],
             description: "Cross-sectional jump shooting game, similar to Metal Slug.",
-            categories: ['webdev']
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/nyc taxi.png',
@@ -98,7 +98,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python'],
             description: "Tree growing process of CHAID algorithm's code implementation. It consists of three steps: merging, splitting and stopping. A tree is grown by repeatedly using these three steps on each node.",
-            categories: ['diy']
+            categories: ['featured', 'diy']
         },
         {
             image: 'assets/images/speech.bmp',
