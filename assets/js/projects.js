@@ -38,15 +38,6 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/game.png',
-            link: 'https://github.com/ZhitongXu/Valiant',
-            title: 'The Valiant',
-            demo: false,
-            technologies: ['Qt', 'C++'],
-            description: "Cross-sectional jump shooting game, similar to Metal Slug.",
-            categories: ['featured', 'webdev']
-        },
-        {
             image: 'assets/images/nyc taxi.png',
             link: 'https://github.com/ZhitongXu/NUS/tree/main/Summer%20Workshop%202019/NYC%20Taxi%20Trip%20Duration',
             title: 'Predict NYC taxi trip duration',
@@ -54,6 +45,15 @@ let render_projects = (slug) => {
             technologies: ['Python'],
             description: "Project under NUS SOC Summer Workshop 2019 big data topic.",
             categories: ['featured', 'native']
+        },
+        {
+            image: 'assets/images/game.png',
+            link: 'https://github.com/ZhitongXu/Valiant',
+            title: 'The Valiant',
+            demo: false,
+            technologies: ['Qt', 'C++'],
+            description: "Cross-sectional jump shooting game, similar to Metal Slug.",
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/amazon.png',
