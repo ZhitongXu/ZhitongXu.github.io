@@ -28,7 +28,7 @@ function blog_posts() {
         },
         {
             url: 'https://sws.comp.nus.edu.sg/2019/index.htm',
-            title: 'NUS SOC SUMMER WORKSHOP 2019',
+            title: 'Enroll in NUS SOC SUMMER WORKSHOP 2019',
         },
         {
             url: 'https://mp.weixin.qq.com/s/7jVh30ZE1vwAVnmIZ6J1iw',
