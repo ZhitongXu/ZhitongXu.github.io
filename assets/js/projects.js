@@ -67,7 +67,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/taxi.png',
             link: 'https://github.com/ZhitongXu/mathematical-modeling/tree/main/taxi',
-            title: 'Taxi airport passenger carrying decision making scheme',
+            title: 'Taxi : passenger carrying decision making scheme at the airport',
             demo: false,
             technologies: ['Python'],
             description: "Based on revenue optimization decision model, queuing theory and correlation analysis, a taxi queuing decision model is established.",
@@ -103,7 +103,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/speech.bmp',
             link: 'https://github.com/ZhitongXu/DIY/tree/main/SLP',
-            title: 'isolated speech recognition systems',
+            title: 'Isolated speech recognition systems',
             demo: false,
             technologies: ['Python'],
             description: " Use DTW、GMM、HMM models to build isolated speech recognition systems",
