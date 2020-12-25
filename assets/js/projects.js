@@ -38,6 +38,15 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
+            image: 'assets/images/speech.bmp',
+            link: 'https://github.com/ZhitongXu/DIY/tree/main/SLP',
+            title: 'Isolated speech recognition systems',
+            demo: false,
+            technologies: ['Python'],
+            description: " Use DTW、GMM、HMM models to build isolated speech recognition systems",
+            categories: ['featured', 'diy']
+        },
+        {
             image: 'assets/images/nyc taxi.png',
             link: 'https://github.com/ZhitongXu/NUS/tree/main/Summer%20Workshop%202019/NYC%20Taxi%20Trip%20Duration',
             title: 'Predict NYC taxi trip duration',
@@ -100,15 +109,7 @@ let render_projects = (slug) => {
             description: "Tree growing process of CHAID algorithm's code implementation. It consists of three steps: merging, splitting and stopping. A tree is grown by repeatedly using these three steps on each node.",
             categories: ['featured', 'diy']
         },
-        {
-            image: 'assets/images/speech.bmp',
-            link: 'https://github.com/ZhitongXu/DIY/tree/main/SLP',
-            title: 'Isolated speech recognition systems',
-            demo: false,
-            technologies: ['Python'],
-            description: " Use DTW、GMM、HMM models to build isolated speech recognition systems",
-            categories: ['diy']
-        },
+
     ]
 
     let projects = [];
