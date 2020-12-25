@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Isolated speech recognition systems',
             demo: false,
             technologies: ['Python'],
-            description: " Use DTW、GMM、HMM models to build isolated speech recognition systems",
+            description: " Use DTW, GMM, HMM models to build isolated speech recognition systems",
             categories: ['featured', 'diy']
         },
         {
