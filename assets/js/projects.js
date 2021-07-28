@@ -20,6 +20,15 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
+            image: 'assets/images/meituan.png',
+            link: 'https://github.com/ZhitongXu/smart-supermarket',
+            title: 'smart supermarket',
+            demo: 'https://demo-0ghboz68fb3ab1f5-1301540209.tcloudbaseapp.com/website_template_updated/html/index.html',
+            technologies: ['Python', 'ArcGIS'],
+            description: "Analyze the POI point information within a certain range around 88 Meituan shopping sites, evaluate the existing site selection, use cluster analysis to formulate different product selection strategies for stores with different geographical characteristics, and provide suggestions for the layout.",
+            categories: ['featured', 'native']
+        },
+        {
             image: 'assets/images/moocweb.png',
             link: 'https://github.com/ZhitongXu/moocweb',
             title: 'moocweb',
